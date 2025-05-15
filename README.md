@@ -1,5 +1,7 @@
 # **My Research Papers**  
 
+![](https://komarev.com/ghpvc/?username=akhilatmakuru&color=yellow&abbreviated=true&base=100&style=for-the-badge)
+
 Welcome to my research repository! This serves as a collection of my published work in the field of **AI for Neurodegenerative Disease Prediction**. I have authored and co-authored multiple papers focusing on **feature selection, explainability in deep learning, and transfer learning for cognitive decline prediction using MRI data**.  
 
 ## **📌 Publications**  
