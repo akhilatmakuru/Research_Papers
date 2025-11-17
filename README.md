@@ -9,13 +9,13 @@ This repo serves as a collection of my published work in the field of **AI for N
 ## **📌 Publications**  
 
 ### **📝 First-Author Papers**  
-1. **[Cognitive Stage Prediction for Alzheimer's Patients](https://doi.org/10.1007/978-3-031-82487-6_13)**  
-2. **[Feature Selection for high-dimensional dataset](https://doi.org/10.1007/978-3-031-53969-5_28)** 
-3. **[Explainability in AI using Sensitivity Analysis](https://doi.org/10.1007/978-3-031-53966-4_33)**
+1. **[Transfer Learning for the Cognitive Staging Prediction in Alzheimer’s Disease](https://doi.org/10.1007/978-3-031-82487-6_13)**  
+2. **[Improved Filter-Based Feature Selection Using Correlation and Clustering Techniques](https://doi.org/10.1007/978-3-031-53969-5_28)** 
+3. **[Sensitivity Analysis for Feature Importance in Predicting Alzheimer’s Disease](https://doi.org/10.1007/978-3-031-53966-4_33)**
 4. **[Enhancing the Performance and Transparency of Machine Learning (ML): Alternative Approaches to ML Interpretability-Explainability](https://doi.org/10.36227/techrxiv.175985766.66705364/v1)**
 
 ### **🤝 Co-Author Paper**  
-4. **[Predicting Apparent Brain Age for Alzheimer's Patients](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.673120/full)** 
+4. **[Classification-biased apparent brain age for the prediction of Alzheimer's disease](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.673120/full)** 
 
 ## **🔬 Research Focus**  
 My work primarily explores:  
