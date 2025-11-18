@@ -96,10 +96,6 @@ This will automatically execute:
 
 # 4. 🧠 Methodology Breakdown
 
-Below is a simple description of how each block of your code works — perfect for examiners checking reproducibility.
-
----
-
 ## **4.1. Baseline Regression Model**
 
 * Input size: 401 MRI ROI features
@@ -153,11 +149,9 @@ For 10 iterations:
 2. Train regression head
 3. Predict MMSE
 4. Convert MMSE predictions → cognitive stages
-
    * 15–20 → Mild
    * 21–30 → Moderate
 5. Compute metrics:
-
    * MAE
    * RMSE
    * MSE
