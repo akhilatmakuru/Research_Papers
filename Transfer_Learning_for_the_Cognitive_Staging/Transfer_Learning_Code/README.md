@@ -185,5 +185,3 @@ The script prints:
 * Standard deviation of accuracy
 * Confusion matrices (per iteration)
 
-These should be captured and included in your thesis appendix.
-
