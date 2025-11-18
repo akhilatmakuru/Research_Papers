@@ -1,4 +1,4 @@
-# README — Transfer Learning + Autoencoder Pipeline for MRI-Based Cognitive Prediction
+# Transfer Learning + Autoencoder Pipeline for MRI-Based Cognitive Prediction
 
 This repository contains the implementation of the **transfer learning pipeline**, **autoencoder architecture**, and **regression + cognitive stage classification models** developed as part of the thesis:
 
