@@ -1,20 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Gridsearch Model of Step 03 - Regression followed by categorization
-# 
-# **********
-# #### Author: Akhila Atmakuru
-# #### Supervisor: Giuseppe di Fatta
-# #### University of Reading
-# **********
-# ### Models: 
-# #### Regression followed by categorization:
-# #### Classification:
-# ### Data:
-# ### Results: 
-# *********
-
 # ## Necessary Imports 
 # The necessary imports include Pandas and NumPy for data manipulation, Matplotlib and Seaborn for data visualization, and scikit-learn for machine learning models and evaluation metrics. These libraries provide essential tools for loading, processing, visualizing, and analyzing data, as well as building and evaluating machine learning models in Python.
 
